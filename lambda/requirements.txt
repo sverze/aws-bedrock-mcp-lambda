@@ -1,0 +1,9 @@
+# MCP dependencies
+mcp
+httpx
+requests
+markdownify
+
+# AWS dependencies
+boto3
+botocore
