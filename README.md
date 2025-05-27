@@ -1,4 +1,4 @@
-# AWS Lambda Handling MCP Client and Server vis Bedrock  
+# AWS Lambda Handling MCP Client and Server using Bedrock  
 
 This project demonstrates how to create an MCP client and server hosted in an AWS lambda accessed via API Gateway 
 that interacts with AWS Bedrock as the model.
